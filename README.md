@@ -1,3 +1,6 @@
+![usable knowledge](https://github.com/gen-ass/usable-knowledge/blob/master/Education_Page_1.jpg)
+![usable knowledge](https://github.com/gen-ass/usable-knowledge/blob/master/Education_Page_2.jpg)
+
 # Usable knowledge site
 The purpose was to allow users to utilise resources to assist them in teaching primary school children. In order to facilitate this the site content was categorised into pre-defined categories.
 
